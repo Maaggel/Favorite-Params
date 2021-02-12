@@ -39,7 +39,7 @@ This will group the two starting with "Group1" in one group, and the tree starti
 
 
 ## License
-Samples are licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT). Please see the [LICENSE](LICENSE) file for full details.
+Samples are licensed under the terms of the [Apache 2.0](https://opensource.org/licenses/Apache-2.0). Please see the [LICENSE](LICENSE) file for full details.
 
 ## Developement
 - Written by [Mikkel Bjørnmose Bundgaard](https://github.com/Maaggel)
