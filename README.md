@@ -3,8 +3,7 @@
 This is an [Autodesk Fusion 360](http://fusion360.autodesk.com/) script that's used for simply editing favorite user parameters, grouped and sorted alphabetically.
 
 
-[![./resources/cover_image_play.png](http://img.youtube.com/vi/4voiojYiIVk/0.jpg)](http://www.youtube.com/watch?v=4voiojYiIVk "FavoriteParams Preview")
-
+[![](./resources/cover_image_play.png)](http://www.youtube.com/watch?v=4voiojYiIVk "FavoriteParams Preview")
 
 # Installation
 1. [Click here to download Favorite Params](https://github.com/Maaggel/Favorite-Params/archive/master.zip)
