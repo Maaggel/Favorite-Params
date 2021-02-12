@@ -22,7 +22,7 @@ Select Modify->Change Parameters
     ![Change Parameters](./resources/dropdown.png)
 3. After creating your parameters, you can the easily edit them using the Favorite Params Addin
   - Select Modify->Favorite Params
-  - Changes are now previewed live in the UI
+  - Changes are now previewed live in the design
     ![Change Parameters](./resources/params_compare.png)
 
 ### Grouping
