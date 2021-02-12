@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"e04d2e18-7151-44a0-bb22-8b50e2d6e5f8",
+	"author":	"Mikkel Bjørnmose Bundgaard",
+	"description":	{
+		"":	"Makes it easy to manage all favorite User Parameters, grouped and sorted alphabetically"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac"
+}
